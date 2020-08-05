@@ -1,10 +1,10 @@
 ### Hi there, I'm [Saad][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m [Full Stack Developer] looking for a role [website]!
-- 🌱 I’m Committed to Lifelong Learning 🧠
-- 👯 I’m love to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+## I'm a Full Stack Developer!
+- 🔭  I'm passionate learner and [programmer][website]!
+- 🌱  I’m Committed to Lifelong Learning 🧠
+- 👯  I’m love to collaborate with other developers
+- 🥅  2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
