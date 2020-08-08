@@ -33,10 +33,6 @@
 <br />
 <br />
 
----
-
-<img align="left" alt="saadasif1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saadasif1&show_icons=true&hide_border=true" />
-
 [website]: https://saad-asif.com
 [linkedin]: https://www.linkedin.com/in/saad-asif-7268851a8/
 [twitter]: https://twitter.com/Saad_Asif_
