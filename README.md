@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there, I'm Saad Asif I'm a Full Stack Developer! 👋</h2>
+<h2> Hi there, I'm Saad Asif I'm a Full Stack Developer! 👋</h2>
 
 - 🔭  I'm a passionate learner and [programmer][website]!
 - 🌱  I’m Committed to Lifelong Learning 🧠
