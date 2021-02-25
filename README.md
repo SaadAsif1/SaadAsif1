@@ -3,7 +3,6 @@
 - 🔭  I'm a passionate learner and [programmer][website]!
 - 🌱  I’m Committed to Lifelong Learning 🧠
 - 👯  I’m love to collaborate with other developers
-- 🥅  2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
